@@ -1,0 +1,4 @@
+001-0727a00	TKD 11-0637a	buddhist/K-koreana/11-tif/0600-0699/11_0637_A.TIF
+001-0727b04	TKD 11-0637b	buddhist/K-koreana/11-tif/0600-0699/11_0637_B.TIF
+001-0727b23	TKD 11-0637c	buddhist/K-koreana/11-tif/0600-0699/11_0637_C.TIF
+001-0727b00	T 001-0727b	buddhist/T-taisho/T17/07/T17-0727.png
